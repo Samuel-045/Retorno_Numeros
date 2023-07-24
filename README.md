@@ -5,7 +5,7 @@
 </p>
 
 <h2>Descrição de projeto</h2>
-Algoritmo que dado um vetor com números aleatórios, retorna  o menor e maior número, junto com a soma total e  o número de pares e impares
+Algoritmo que dado um vetor com números aleatórios, retorna  o menor e maior número, junto com a soma total e a quantidade de números pares e impares
 
 <h2>:file_folder: Como ter acesso ao projeto</h2>
 Basta baixar o arquivo em sua máquina, ter o java (da versão 14 em diante para rodar sem problemas) e alguma IDE instalada.
