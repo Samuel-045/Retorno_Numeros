@@ -5,7 +5,12 @@
 </p>
 
 <h2>Descrição de projeto</h2>
-Algoritmo que dado um vetor com números aleatórios, retorna  o menor e maior número, junto com a soma total e a quantidade de números pares e impares
+Algoritmo que dado um vetor com números aleatórios, retorna  o menor e maior número, junto com a soma total e a quantidade de números pares e impares.
+<div align="center">
+   <img src="https://github.com/Samuel-045/Retorno_Numeros/assets/95144250/d40d9bc3-408f-4794-92b6-70d33082b851"/>
+
+   >Demosntração do código executado.
+</div>
 
 <h2>:file_folder: Como ter acesso ao projeto</h2>
 Basta baixar o arquivo em sua máquina, ter o java (da versão 14 em diante para rodar sem problemas) e alguma IDE instalada.
